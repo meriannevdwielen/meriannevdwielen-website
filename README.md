@@ -3,4 +3,4 @@
 
 Fork, download and destroy
 
-url: https://meriannevdwielen.github.io/meriannevdwielen-website/
+url: https://meriannevdwielen.github.io/willy-wacky-website/
